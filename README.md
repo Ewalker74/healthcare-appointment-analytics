@@ -18,7 +18,7 @@ This project processes data through bronze, silver, and gold layers.
 
 ## Data Pipeline Architecture
 
-!\[Data pipeline architecture: Bronze to Silver to Gold to Power BI](pipeline-architecture.png)
+![Data Pipeline Architecture](pipeline-architecture.png)
 
 ## Data Pipeline
 
