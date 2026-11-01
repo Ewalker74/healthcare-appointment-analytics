@@ -59,3 +59,21 @@ The dashboard includes total appointments, completion rate, cancellation rate, n
 
 Additional visuals show appointment volume by service line and monthly performance trends. Users can filter the report by year, month, and service line.
 
+
+## Databricks Notebooks
+
+The following notebooks document the data profiling,
+transformations, and validation performed throughout
+the pipeline.
+
+### Bronze
+- [Appointments Profiling](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Bronze%20Appointments%20Profiling.html)
+- [Practices Profiling](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Bronze%20Practices%20Profiling.html)
+
+### Silver
+- [Appointments Staging](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Silver%20Appointments%20Staging.html)
+- [Practices Staging](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Silver%20Practices%20Staging.html)
+- [Appointments Enriched](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Silver%20Appointments%20Enriched.html)
+
+### Gold
+- [Appointments Mart](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Gold%20Appointments%20Mart.html)
