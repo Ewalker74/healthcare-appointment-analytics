@@ -77,3 +77,10 @@ the pipeline.
 
 ### Gold
 - [Appointments Mart](https://ewalker74.github.io/healthcare-appointment-analytics/Databricks%20Notebooks/PP-Gold%20Appointments%20Mart.html)
+
+
+
+
+### Dashboard Preview
+
+![Appointment Performance Dashboard](Dashboard/appointment-performance-dashboard.png)
